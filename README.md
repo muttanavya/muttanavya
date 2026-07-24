@@ -11,7 +11,9 @@
 
 💬 Ask me about Java, Python, Machine Learning, Data Analytics, Power BI, and GitHub.
 
-⚡ Fun fact: I enjoy turning real-world problems into AI-powered solutions and continuously learning new technologies
+⚡ Fun fact: I enjoy turning real-world problems into AI-powered solutions and continuously learning new technologies.
+
+🚀 Know  more:https://portfolie-jdkz.vercel.app/
 
 
 
