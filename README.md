@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8E2DE2,100:FF00E5&height=180&section=header&text=Mutta%20Navya&fontSize=42&fontColor=FFFFFF&animation=none&fontAlignY=38&desc=Computer%20Science%20(AI%20%26%20ML)%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18" alt="Header banner: Mutta Navya, Computer Science (AI & ML), Aspiring Software Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8E2DE2,100:FF00E5&height=160&section=header&text=Mutta%20Navya&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="Header banner with the name Mutta Navya" width="100%"/>
+
+<h3>Computer Science (AI & ML) &nbsp;|&nbsp; Aspiring Software Engineer</h3>
 
 <p>
   <a href="mailto:muttanavya@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email"></a>
