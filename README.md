@@ -1,44 +1,159 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:BE185D,100:F472B6&height=200&section=header&text=Hey%20there,%20I'm%20[YOUR_NAME]%20👋&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FDE2E4,50:F8BBD0,100:EF93C4&height=200&section=header&text=Hey%20there,%20I'm%20[YOUR_NAME]%20👋&fontSize=36&fontColor=4A044E&fontAlignY=38&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=200&section=header&text=Hey%20there,%20I'm%20[YOUR_NAME]%20👋&fontSize=36&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Header banner">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8E2DE2,100:FF00E5&height=180&section=header&text=Mutta%20Navya&fontSize=42&fontColor=FFFFFF&animation=none&fontAlignY=38&desc=Computer%20Science%20(AI%20%26%20ML)%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18" alt="Header banner: Mutta Navya, Computer Science (AI & ML), Aspiring Software Engineer" width="100%"/>
+
+<p>
+  <a href="mailto:muttanavya@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email"></a>
+  <a href="https://github.com/muttanavya"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/mutta-navya-0399bb2b6"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=FF00E5" alt="LinkedIn"></a>
+  <a href="https://portfolie-jdkz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=FF00E5" alt="Portfolio"></a>
+</p>
+
+</div>
+
+> 💬 *Motivated B.Tech student with strong foundations in Java, Data Structures & Algorithms, problem solving, and software development — seeking a Software Engineer role.*
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Problem+Solver;Building+things+that+matter;Always+learning+something+new" alt="Typing SVG">
-</a>
+## 🪐 About Me
 
-<br><br>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=FF69B4&logo=github&logoColor=white" alt="Followers">
-<img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&logo=github&logoColor=white" alt="Stars">
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&style=for-the-badge&color=EF93C4" alt="Profile Views">
+**🎓 Education**
+B.Tech, Computer Science (AI & ML)
+DIET (Autonomous), Anakapalli
+📈 8.45 CGPA · Final Year
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Currently**
+Focused on Machine Learning, Data Analytics & Data Visualization — building experience through internships and independent projects.
+
+</td>
+</tr>
+</table>
+
+🗣️ **Languages:** English &nbsp;•&nbsp; Telugu &nbsp;•&nbsp; Hindi
+
+<br>
+
+## 🧰 Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,tableau,powerbi&theme=dark" alt="Java, Python, C, SQL, Git, GitHub, Tableau, Power BI skill icons" />
+</p>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">💻<br><b>Languages</b><br>Java · Python · C · SQL</td>
+<td align="center" width="33%">📊<br><b>Tools</b><br>Power BI · Tableau · Excel</td>
+<td align="center" width="33%">🧠<br><b>Concepts</b><br>ML · Data Analytics · Data Viz</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Credit Card Fraud Detection
+Uses Machine Learning to identify fraudulent and legitimate transactions through data analysis and model optimization.
+<sub>🗓️ May 2026</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Browser History Simulator
+A stack-based navigation system implementing back and forward operations.
+<sub>🗓️ March 2026</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Vehicle Accident Alert System
+An IoT-enabled accident detection system with live GPS emergency alerts.
+<sub>🗓️ October 2025</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Smart Door Lock System
+An IoT-based security system using RFID and Wi-Fi with real-time mobile alerts.
+<sub>🗓️ March 2025</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📌 *Explore the code on my [GitHub repositories](https://github.com/muttanavya?tab=repositories).*
 
 </div>
 
 <br>
 
-## 💗 About Me
+## 💼 Internship Timeline
 
-<table>
+<div align="center">
+
+`Oct 2024` **AWS Data Engineering** → `Feb 2025` **Google AI-ML Virtual Internship** → `July 2025` **Google Android Developer** → `Oct 2025` **DSA (C)** → `May 2026` **Agentic AI**
+
+</div>
+
+<table width="100%">
+<tr><th align="left">🔹 Internship</th><th align="left">Focus Area</th><th align="left">Duration</th></tr>
+<tr><td>Agentic AI</td><td>Prompt engineering, Machine Learning</td><td>7 Weeks — May 2026</td></tr>
+<tr><td>Data Structures & Algorithms (C)</td><td>Core DSA concepts</td><td>8 Weeks — Oct 2025</td></tr>
+<tr><td>Google Android Developer</td><td>Android app development, UI design</td><td>July 2025</td></tr>
+<tr><td>Google AI-ML Virtual Internship</td><td>Building & deploying AI-powered applications</td><td>Feb 2025</td></tr>
+<tr><td>AWS Data Engineering</td><td>Data storage and ETL</td><td>Oct 2024</td></tr>
+</table>
+
+<br>
+
+## 📜 Certifications
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br>
+
+- 🏅 **Quantum Computing Fundamentals** — WISER, Qubitech · Feb 2026
+- 🏅 **Elite NPTEL Course – Joy of Computing using Python** · Nov 2025
+- 🏅 **Python Full Stack Developer** — Google · July 2025
+- 🏅 **AWS Data Engineering** · April 2025
+- 🏅 **Business Analyst** — Celonis · April 2025
+- 🏅 **Data Visualization** — Forage · Dec 2024
+- 🏅 **Ethical Hacking** — Eduskills Cohort 10 · Dec 2024
+
+</details>
+
+<br>
+
+## 🏆 Achievements & Activities
+
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-- 🔭 I'm currently working on **[YOUR_CURRENT_PROJECT]**
-- 🌱 I'm currently learning **[YOUR_LEARNING_TOPIC]**
-- 👯 I'm looking to collaborate on **[YOUR_COLLAB_INTEREST]**
-- 💬 Ask me about **[YOUR_EXPERTISE_AREA]**
-- 📫 How to reach me: **[YOUR_EMAIL]**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
+**🌟 Achievements**
+- Assisted 100+ individuals in registering for ABHA (Ayushman Bharat Health Account) cards during a government health registration initiative, ensuring accurate data entry and smooth enrollment.
+- Co-authored a research paper on **AI-Based Mobile Malware Detection** with a team of 3, uploaded to the IC-PINAKA portal.
 
 </td>
-<td width="35%" align="center">
+<td width="50%" valign="top">
 
-<img src="[YOUR_IMAGE_URL]" width="100%" alt="[YOUR_NAME] profile image" style="border-radius: 12px;">
+**🎯 Extracurricular**
+- Participated in Campus Crew QuizOff 2026, one of India's largest AI quizzes.
+- Attended hands-on workshops on DevOps, Google AI/ML, and AWS Cloud.
 
 </td>
 </tr>
@@ -46,83 +161,55 @@
 
 <br>
 
-## 🧬 Tech Stack
+## 💻 Coding Profiles
 
-<div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=[LANG_ICONS]&theme=light" alt="Languages">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=[FRONTEND_ICONS]&theme=light" alt="Frontend">
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=[BACKEND_ICONS]&theme=light" alt="Backend">
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=[DATABASE_ICONS]&theme=light" alt="Databases">
-
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=[DEVOPS_ICONS]&theme=light" alt="Cloud & DevOps">
-
-**Tools & Design**
-<br>
-<img src="https://skillicons.dev/icons?i=[TOOLS_ICONS]&theme=light" alt="Tools & Design">
-
-</div>
+<p>
+  <a href="https://leetcode.com/u/muttanavya/"><img src="https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=00F5FF" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/diet_4260"><img src="https://img.shields.io/badge/CodeChef-0D0221?style=for-the-badge&logo=codechef&logoColor=00F5FF" alt="CodeChef"></a>
+  <a href="https://www.geeksforgeeks.org/profile/muttanavya/"><img src="https://img.shields.io/badge/GeeksforGeeks-0D0221?style=for-the-badge&logo=geeksforgeeks&logoColor=FF00E5" alt="GeeksforGeeks"></a>
+</p>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muttanavya&theme=radical" alt="Navya's GitHub profile summary" width="100%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&theme=transparent&title_color=FF69B4&icon_color=EF93C4&text_color=4A044E&bg_color=00000000" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&hide_border=true&theme=transparent&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=4A044E&currStreakNum=4A044E&sideNums=4A044E&dates=4A044E" alt="GitHub Streak" width="48%">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=muttanavya&show_icons=true&hide_border=true&theme=radical&title_color=00F5FF&icon_color=FF00E5&text_color=FFFFFF&bg_color=0D0221" alt="Navya's GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muttanavya&hide_border=true&theme=radical&background=0D0221&ring=FF00E5&fire=00F5FF&currStreakLabel=00F5FF" alt="Navya's GitHub streak" width="49%" />
+</p>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=react-dark&hide_border=true&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0" alt="Activity Graph" width="97%">
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muttanavya&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Navya's GitHub trophies" />
+</p>
 
 <br>
 
 ## 🐍 Contribution Snake
 
-<!--
-  Add a workflow at .github/workflows/snake.yml using the Platane/snk action
-  to regenerate this SVG automatically on a schedule, then reference the
-  generated file from the "output" branch below.
--->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%">
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muttanavya/muttanavya/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" style="max-width: 100%;" />
+</p>
 
 <br>
 
-## 🌐 Connect With Me
+## 🌿 Hobbies
 
-<div align="center">
+<details>
+<summary><b>Click to expand / collapse</b></summary>
+<br>
 
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/[YOUR_X_HANDLE]"><img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://instagram.com/[YOUR_INSTAGRAM]"><img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://tiktok.com/@[YOUR_TIKTOK]"><img src="https://img.shields.io/badge/TikTok-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-<a href="https://youtube.com/@[YOUR_YOUTUBE]"><img src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+🌷 Gardening while listening to music &nbsp;·&nbsp; 📚 Reading technology blogs
 
-</div>
+</details>
 
 <br>
 
-<picture>
-  <source
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8E2DE2,100:00F5FF&height=100&section=footer" alt="Footer banner" width="100%"/>
+
+<div align="center">
+<i>Thanks for visiting my profile — feel free to explore my repositories and connect with me. ✨</i>
+</div>
