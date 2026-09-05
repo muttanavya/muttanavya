@@ -144,4 +144,38 @@ An IoT-based security system using RFID and Wi-Fi with real-time mobile alerts.
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/muttanavya/"><img src="https://img.shields.io/badge/LeetCode-0
+  <a href="https://leetcode.com/u/muttanavya/"><img src="https://img.shields.io/badge/LeetCode-0A192F?style=for-the-badge&logo=leetcode&logoColor=FFD700" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/diet_4260"><img src="https://img.shields.io/badge/CodeChef-0A192F?style=for-the-badge&logo=codechef&logoColor=FFD700" alt="CodeChef"></a>
+  <a href="https://www.geeksforgeeks.org/profile/muttanavya/"><img src="https://img.shields.io/badge/GeeksforGeeks-0A192F?style=for-the-badge&logo=geeksforgeeks&logoColor=FFD700" alt="GeeksforGeeks"></a>
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muttanavya&show_icons=true&hide_border=true&theme=nightowl&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0A192F" alt="Navya's GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muttanavya&hide_border=true&theme=nightowl&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="Navya's GitHub streak" width="49%" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/muttanavya/muttanavya/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" style="max-width: 100%;" />
+</p>
+
+<br>
+
+## 🌱 Hobbies
+
+Gardening while listening to music · Reading technology blogs
+
+<br>
+
+<div align="center">
+
+*Thanks for visiting my profile — feel free to explore my repositories and connect with me.*
+
+</div>
